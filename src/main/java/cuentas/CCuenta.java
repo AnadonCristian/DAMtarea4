@@ -1,4 +1,4 @@
-package com.mycompany.main;
+package cuentas;
 
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
